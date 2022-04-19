@@ -5,6 +5,8 @@
 - Add `react-router-dom` to an existing React application
 - Create multiple client-side routes
 
+# use react-dom V6, check out its documentation.
+
 ## Introduction
 
 So far, we have been building our applications without any navigation, so
